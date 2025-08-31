@@ -1,0 +1,23 @@
+{
+  "name": "incubyte-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikasprashar99/incubyte-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikasprashar99/incubyte-assignment/issues"
+  },
+  "homepage": "https://github.com/vikasprashar99/incubyte-assignment#readme",
+  "devDependencies": {
+    "jest": "^30.1.1"
+  }
+}
